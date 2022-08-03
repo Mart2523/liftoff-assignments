@@ -14,3 +14,4 @@ www.linkedin.com/in/cade-martinez-a81480181
 
 ### Resume
 
+Resume is attached to main repository page under Cade Martinez LiftOff Resume 2022
